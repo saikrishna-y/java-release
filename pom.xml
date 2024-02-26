@@ -2,7 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.gitghub.thiagogarbazza.exemplos</groupId>
+    <groupId>com.gitghub.sai.example</groupId>
     <artifactId>test-maven-release-plugin</artifactId>
     <version>0.0.1</version>
     <modules>
@@ -15,8 +15,8 @@
     <description>Testar o release automático através do plugin do maven Release</description>
 
     <scm>
-        <connection>scm:git:https://github.com/thiagogarbazza/example-maven-release.git</connection>
-        <developerConnection>scm:git:https://github.com/thiagogarbazza/example-maven-release.git</developerConnection>
+        <connection>scm:git:https://github.com/saikrishna-y/java-release.git</connection>
+        <developerConnection>scm:git:https://github.com/saikrishna-y/java-release.git</developerConnection>
         <url>https://github.com/thiagogarbazza/example-maven-release.git</url>
         <tag>0.0.1</tag>
   </scm>
